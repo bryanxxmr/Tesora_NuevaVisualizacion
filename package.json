@@ -1,0 +1,30 @@
+{
+    "name": "playwright-mcp-automation",
+    "version": "1.0.0",
+    "description": "Playwright QA Automation con MCP Server",
+    "type": "module",
+    "scripts": {
+        "test": "playwright test",
+        "test:headed": "playwright test --headed",
+        "test:debug": "playwright test --debug",
+        "codegen": "playwright codegen",
+        "mcp-server": "node src/mcp-server.js"
+    },
+    "keywords": [
+        "playwright",
+        "automation",
+        "qa",
+        "testing",
+        "mcp"
+    ],
+    "author": "QA Automation",
+    "license": "MIT",
+    "dependencies": {
+        "@modelcontextprotocol/sdk": "^1.0.0",
+        "playwright": "^1.45.0"
+    },
+    "devDependencies": {
+        "@playwright/test": "^1.45.0",
+        "@types/node": "^20.0.0"
+    }
+}
