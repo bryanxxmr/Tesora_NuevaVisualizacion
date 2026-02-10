@@ -1,5 +1,8 @@
 # Playwright QA Automation
 
+[![Playwright Tests](https://github.com/bryanxxmr/Tesora_NuevaVisualizacion/actions/workflows/playwright.yml/badge.svg)](https://github.com/bryanxxmr/Tesora_NuevaVisualizacion/actions/workflows/playwright.yml)
+[![Node.js CI](https://github.com/bryanxxmr/Tesora_NuevaVisualizacion/actions/workflows/playwright-advanced.yml/badge.svg)](https://github.com/bryanxxmr/Tesora_NuevaVisualizacion/actions/workflows/playwright-advanced.yml)
+
 Este proyecto es un servidor MCP (Model Context Protocol) para automatización de pruebas QA con Playwright.
 
 ## Descripción
